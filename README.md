@@ -1,4 +1,4 @@
-# 👋 Kia ora, we’re **Tumunu**
+# 👋 Kia orana, we’re **Tumunu**
 
 Defensive forensic tools — built open‑source to **prove** skill, not just pitch it.
 
