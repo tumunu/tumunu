@@ -6,9 +6,9 @@ Defensive forensic tools — built open‑source to **prove** skill, not just pi
 
 <p align="center">
   <a href="https://tumunu.com"><img src="https://img.shields.io/badge/website-tumunu.com-blue?style=for-the-badge&logo=google-chrome" /></a>
-  <a href="https://github.com/tumunu/tumunu.github.io/releases"><img src="https://img.shields.io/github/v/release/tumunu/tumunu.github.io?label=release&style=for-the-badge" /></a>
+  <!--a href="https://github.com/tumunu/tumunu.github.io/releases"><img src="https://img.shields.io/github/v/release/tumunu/tumunu.github.io?label=release&style=for-the-badge" /></a>
   <a href="https://github.com/tumunu/tumunu.github.io/stargazers"><img src="https://img.shields.io/github/stars/tumunu/tumunu.github.io?color=FCD535&style=for-the-badge&logo=github" /></a>
-  <a href="https://github.com/tumunu/tumunu.github.io/network/members"><img src="https://img.shields.io/github/forks/tumunu/tumunu.github.io?color=E6007A&style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/tumunu/tumunu.github.io/network/members"><img src="https://img.shields.io/github/forks/tumunu/tumunu.github.io?color=E6007A&style=for-the-badge&logo=github" /></a-->
 </p>
 
 ---
