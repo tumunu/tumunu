@@ -2,7 +2,7 @@
 
 Defensive forensic tools — built open‑source to **prove** skill, not just pitch it.
 
-> **Tumunu** is a father–son project from Aotearoa /New Zealand focused on producing *defensible*, open‑source digital‑forensic tooling. Version `v0.1.0` ships a CLI that images disks bit‑for‑bit, verifies hashes, and writes a tamper‑proof audit log—ready for chain‑of‑custody.
+> **Tumunu** is a project from Aotearoa /New Zealand focused on producing *defensible*, open‑source digital‑forensic tooling. Version `v0.1.0` ships a CLI that images disks bit‑for‑bit, verifies hashes, and writes a tamper‑proof audit log—ready for chain‑of‑custody.
 
 <p align="center">
   <a href="https://tumunu.com"><img src="https://img.shields.io/badge/website-tumunu.com-blue?style=for-the-badge&logo=google-chrome" /></a>
